@@ -8,7 +8,7 @@ https://climate.esa.int/en/odp/#/project/sea-surface-temperature
 https://link.springer.com/article/10.1007/s00343-020-0035-4
 https://seatemperature.info/philippines-water-temperature.html
 https://www.seatemperature.org/middle-east/yemen/aden.htm
-https://www.solananin.hr/en/nature/the-adriatic-sea/#:~:text=The%20salinity%20of%20the%20Adriatic,in%20one%20kilogram%20of%20water.
+https://www.solananin.hr/en/nature/the-adriatic-sea/#:~:text=The%20salinity%20of%20the%20Adriatic,in%20one%20kilogram%20of%20water
 https://www.waterdatabase.com/seas/aegean-sea/
 https://www.harteresearch.org/sites/default/files/inline-files/3.pdf
 https://www.researchgate.net/publication/290056034_Salinity_distribution_in_the_Arabian_Sea
